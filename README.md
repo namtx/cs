@@ -3,7 +3,7 @@
 - [x] [Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
 - [x] [Find sub-array with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 - [x] [Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
-- [ ] [Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
+- [x] [Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
 - [ ] [Find largest sub-array formed by consecutive integers](http://www.techiedelight.com/find-largest-sub-array-formed-by-consecutive-integers/)
 - [ ] [Find maximum length sub-array having given sum](http://www.techiedelight.com/find-maximum-length-sub-array-having-given-sum/)
 - [ ] [Find maximum length sub-array having equal number of 0âs and 1âs](http://www.techiedelight.com/find-maximum-length-sub-array-equal-number-0s-1s/)
