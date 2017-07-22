@@ -1,6 +1,6 @@
 # 500 Data Structures and Algorithms practice problems and their solutions
 
-- [ ] [Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
+- [x] [Find pair with given sum in the array](http://www.techiedelight.com/find-pair-with-given-sum-array/)
 - [ ] [Find sub-array with 0 sum](http://www.techiedelight.com/find-sub-array-with-0-sum/)
 - [ ] [Sort binary array in linear time](http://www.techiedelight.com/sort-binary-array-linear-time/)
 - [ ] [Find a duplicate element in a limited range array](http://www.techiedelight.com/find-duplicate-element-limited-range-array/)
